@@ -9,5 +9,3 @@ export class AppComponent {
   title = 'my-first-app';
 }
 
-
-
